@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Java_Database</string>
+    <string name="details">Please enter the details below : </string>
+    <string name="name">Please enter the name : </string>
+    <string name="contact">Please enter the contact : </string>
+    <string name="dob">Please enter the date of birth : </string>
+</resources>
